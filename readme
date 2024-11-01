@@ -1,0 +1,9 @@
+System: Ubuntu 14.04
+Opencv: 2.9
+Qt project configuration: Release 
+
+run code
+
+click "Dataset", select a sequence folder (benchmark standard, contain img folder and groundtruth_rect.txt) but don't go inside the sequence folder
+
+If the figure shows up and the green bounding box is visiable, then click "Start".
